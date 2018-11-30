@@ -8,3 +8,4 @@ If you have any question about our translation, plz contact with [dlbookvn](http
 Phần dịch này là đóng góp của các thành viên nhóm [dlbookvn](https://dlbookvn.gitlab.io/about/) dành cho cộng đồng AI Việt Nam.
 
 - [Chương 1 - Giới thiệu](./dlbookvn/dlbookvn_chap01.pdf)
+- [Chương 2 - Đại số tuyến tính](./dlbookvn/dlbookvn_chap02.pdf)
